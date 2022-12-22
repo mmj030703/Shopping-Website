@@ -1,0 +1,114 @@
+.confirm_content {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.continue_button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 26px;
+    background-color: indigo;
+    max-width: 330px;
+    border-radius: 30px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 495px;
+    margin-bottom: 60px;    
+}
+
+.continue_button:hover {
+    background-color: crimson;
+}
+
+.continue_button a {
+    text-decoration: none;
+    color: white;
+}
+
+.strip2_heading a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 31px ;
+    margin-left: 1px;
+    margin-top: 100px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 970px;
+    padding-bottom: 100px;
+    line-height: 0px;
+    letter-spacing: 1px;
+    background-color: rgb(247, 232, 232);
+    position: static;
+}
+
+.strip2 {
+    background-color: rgb(247, 232, 232);
+    margin-top: 25px;
+    margin-bottom: 60px;
+}
+
+.lenevo_laptop {
+    margin-top: 0px;
+    padding-top: 0px;
+    height: 250px;
+    width: 240px;
+    margin-left: 0px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    border-color: indigo
+}
+
+.basmati_rice {
+    margin-top: 0px;
+    padding-top: 0px;
+    height: 250px;
+    width: 240px;
+    margin-left: 5px;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    border-color: indigo;
+}
+
+.setwet_spray {
+    margin-top: 0px;
+    padding-top: 0px;
+    height: 250px;
+    width: 240px;
+    margin-left: 0px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    border-color: indigo;
+}
+
+.salwar_kurti {
+    margin-top: 0px;
+    padding-top: 0px;
+    height: 250px;
+    width: 240px;
+    margin-left: 0px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    border-color: indigo;
+}
+
+.boat_earbud {
+    margin-top: 0px;
+    padding-top: 0px;
+    height: 250px;
+    width: 240px;
+    margin-left: 0px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    border-color: indigo;
+}

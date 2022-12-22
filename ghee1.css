@@ -1,0 +1,95 @@
+.electronics_head {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.strip1_n_heading {
+    margin-left: 116px;
+}
+
+.strip1 {
+    margin-top: 0px;
+    margin-left: 350px;
+    margin-bottom: 60px;
+    padding-left: 0px;
+    padding-right: 263px;
+    padding-top: 5px;
+    padding-bottom: 25px;
+    max-width: 600px;
+    background-color: rgb(233, 221, 221);
+    background-size: 300px;
+    display: inline-block;
+}
+
+div.img1 {
+    /* To correctly align image, regardless of content height: */
+    vertical-align: top;
+    display: inline-block;
+    /* To horizontally center images and caption */
+    
+    /* The width of the container also implies margin around the images. */
+    width: 120px;
+    margin-right: 10px;
+    padding-left: 0px;
+}
+
+.laptop_coverphoto {
+    height: 330px;
+    width: 350px;
+    margin-right: 15px;
+    margin-left: 15px;
+    padding-top: 15px;
+    padding-left: 8px;
+    padding-right: 48px;
+    padding-bottom: 0px;
+    /*background-color: rgb(233, 221, 221);*/
+}
+
+.caption1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 19px;
+    color: black;
+    background-color: white;
+    padding-right: 215px;
+    /* Make the caption a block so it occupies its own line. */
+    margin-left: 23px;
+    margin-bottom: 0px;
+    padding-right: 335px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+    line-height: 1px;
+    display: block;
+}
+
+.caption1 pre {
+    line-height: 1px;
+    padding-bottom: 7px;
+    margin-bottom: 0px;
+}
+
+.buy1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    color: white;
+    margin-top:20px;
+    margin-left: 130px;
+    border-radius: 30px;
+    background-color: indigo;
+    border-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+.buy1:hover {background-color: crimson;}
+
+.laptop_photo a{
+    text-decoration: none;
+}

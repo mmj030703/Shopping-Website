@@ -1,0 +1,78 @@
+.footer {
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+    padding-bottom: 60px;
+    background-size: cover;
+    color: white;
+}
+
+.fa {
+    padding-top: 35px;
+    font-size: 30px;
+    width: 90px;
+    height: 60px;
+    text-align: center;
+    text-decoration: none;
+    margin: 40px 12px 0px 25px;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+    margin-left: 440px;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  .footer_email {
+      margin-top: 50px;
+      margin-left: 390px;
+  }
+
+  .f_email_input {
+    background-color: powderblue;
+  }
+
+  .f_email {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 20px;
+      background-color: indigo;
+      margin-right: 1px;
+      padding-top: 13px;
+      padding-bottom: 15px;
+      padding-left: 45px;
+      padding-right: 35px;
+      border-radius: 30px;
+      border-bottom-right-radius: 0px;
+      border-top-right-radius: 0px;
+  }
+
+  .f_email_input {
+      margin-left: 30px;
+      font-size: 20px;
+      margin-left: 0px;
+      padding-top: 14px;
+      padding-bottom: 13px;
+      padding-left: 80px;
+      padding-right: 100px;
+      border-radius: 30px;
+      border-top-left-radius: 0px;
+      border-bottom-left-radius: 0px ;
+  }

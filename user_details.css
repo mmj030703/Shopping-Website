@@ -1,0 +1,206 @@
+                /*********************************************************|| LOGO ||******************************************************/
+.logo {
+    overflow: hidden;
+    background-color: white;
+    border-color: indigo;     
+}
+
+.logo a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: right;
+    color:black;
+    padding: 15px 150px;
+    text-decoration: none;
+    line-height: 33px;
+}
+
+a.logo_name {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    margin-right: 386px;
+    margin-top: 18px;
+  }
+  
+ .logo_photo {
+   margin-left: 430px;
+   margin-top: 0px;
+   position: absolute;
+   line-height: 1px;
+ }
+                /*******************************************|| LOGO ||***********************************************/
+
+                /*************************************|| REGISTRATION DETAILS ||*************************************/
+                
+form {
+    text-align: left;
+    font-size: 5px;
+    margin-top: 0px;
+    border-width: 50px;
+    border-color: indigo;
+    background-color: indigo;
+    margin-left: 405px;
+    margin-right: 360px;
+    padding-top: 10px;
+    padding-right: 1px;
+    padding-left: 40px;
+    padding-bottom: 15px;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: blueviolet;
+    border-width: 1px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-bottom: 15px;
+    padding-left: 1px;
+    padding-top: 0px;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+.first_name {
+    padding-left: 13px;
+    padding-right: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+    background-color: powderblue;
+    border-radius: 30px;
+    border-width: 0px;
+}
+
+.last_name {
+    padding-left: 13px;
+    padding-right: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 7px;
+    font-size: 16px;
+    background-color: powderblue;
+    border-radius: 30px;
+    border-width: 0px;
+}
+
+.first_name_n_last_name {
+        display: flex;
+        margin-bottom: 7px;
+}
+
+.phone_number {
+    padding-left: 13px;
+    padding-right: 285px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    font-size: 16px;
+    background-color: powderblue;
+    border-radius: 30px;
+    border-width: 0px;
+}
+
+.gender {
+    margin-right: 25px;
+}
+
+.mgender {
+    background-color: powderblue;
+    border-radius: 30px;
+    border-width: 0px;
+    margin-right: 10px;
+    padding-right: 50px;
+    margin-top: 15px;
+}
+
+.fgender {
+    background-color: powderblue;
+    border-radius: 30px;
+    border-width: 0px;
+    margin-right: 10px;
+}
+
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: white;
+    margin-right: 75px;
+    text-decoration: none;
+}
+
+.address {
+    padding-left: 13px;
+    padding-right: 285px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    background-color: powderblue;
+    border-radius: 30px;
+    border-width: 0px;
+}
+
+.gender {
+    margin-bottom: 4px;
+}
+
+.city {
+    padding-left: 13px;
+    padding-right: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+    background-color: powderblue;
+    border-radius: 30px;
+    border-width: 0px;
+}
+
+.state {
+    padding-left: 13px;
+    padding-right: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+    background-color: powderblue;
+    border-radius: 30px;
+    border-width: 0px;
+}
+
+.city_n_state {
+    display: flex;
+    margin-right: 100px;
+    margin-left: 0px;
+    margin-top: 13px;
+    margin-bottom: 8px;
+}
+
+.sam {
+    display: none;
+}
+
+
+.submit {
+    color: white;
+    padding-left: 112px;
+    padding-right: 117px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-left: 90px;
+    margin-top: 3px;
+    font-size: 16px;
+    background-color: crimson;
+    border-radius: 30px;
+    border-width: 0px;
+    cursor: pointer;
+}
+
+.submit:hover {
+    background-color: black;
+}
+

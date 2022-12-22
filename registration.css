@@ -1,0 +1,99 @@
+                /*********************************************************|| LOGO ||******************************************************/
+.logo {
+    overflow: hidden;
+    background-color: white;
+    border-color: indigo;     
+}
+
+.logo a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: right;
+    color:black;
+    padding: 15px 150px;
+    text-decoration: none;
+    line-height: 70px;
+}
+
+a.logo_name {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    margin-right: 420px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+  }
+  
+ .logo_photo {
+   margin-left: 400px;
+   margin-top: 40px;
+   padding-top: 90px;
+   position: fixed;
+ }
+                /*********************************************************|| LOGO ||******************************************************/
+
+                /*******************************************************|| SIGN UP ||*****************************************************/
+                
+form {
+    text-align: center;
+    margin-top: 10px;
+    border-width: 50px;
+    border-color: black;
+    background-color: indigo;
+    margin-left: 470px;
+    margin-right: 470px;
+    padding-top: 10px;
+    padding-right: 1px;
+    padding-bottom: 40px;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: blueviolet;
+    border-width: 1px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 23px;
+    color: white;
+    margin-right: 138px;
+    margin-bottom: 30px;
+    text-decoration: none;
+}
+
+.email {
+    padding-left: 13px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 19px;
+    background-color: powderblue;
+    border-radius: 30px;
+    border-width: 0px;
+}
+
+.password {
+    padding-left: 13px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 19px;
+    background-color: powderblue;
+    border-radius: 30px;
+    border-width: 0px;
+}
+
+.signup {
+    color: white;
+    padding-left: 112px;
+    padding-right: 117px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 19px;
+    background-color: crimson;
+    border-radius: 30px;
+    border-width: 0px;
+    cursor: pointer;
+}
+
+.signup:hover {
+    background-color: black;
+}
+

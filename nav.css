@@ -1,0 +1,221 @@
+  ul {
+    list-style-type: none;
+    margin: 0;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    border-radius: 30px;  
+  }
+  
+  li {
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 19px;
+  }
+  
+  li a, .clothes {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+/*****************************************************|| CLOTHES & APPREALS ||*****************************************************/
+
+  li.clothes_dropdown {
+    display: inline-block;
+  }
+  
+  .clothes_dropmenu {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    margin-left: 15px;
+    padding-top: 5px;
+    min-width: 340px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .clothes_dropmenu a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+  }
+  
+  .clothes_dropmenu a:hover {
+      background-color: crimson;
+      color: white;
+    }
+  
+  .clothes_dropdown:hover .clothes_dropmenu {
+      display: block;
+    }
+    
+    .clothes {
+        padding-left: 80px;
+        padding-right: 91px;
+    }
+    
+     .clothes:hover {
+        background-color: crimson;
+    }
+
+/*****************************************************|| CLOTHES & APPREALS ||*****************************************************/
+    
+/*****************************************************|| CLOTHES & APPREALS ||*****************************************************/
+
+  .electronics {
+      background-color: indigo;
+      padding-left: 70px;
+      padding-right: 70px;
+      max-width: 110px;
+      margin-right: 0px;
+  }
+
+  li.electronics_dropdown {
+    display: inline-block;
+  }
+  
+  .electronics_dropmenu {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    margin-left: 25px;
+    padding-top: 5px;
+    min-width: 310px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .electronics_dropmenu a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+  }
+  
+  .electronics_dropmenu a:hover {
+      background-color: crimson;
+      color: white;
+    }
+  
+  .electronics_dropdown:hover .electronics_dropmenu {
+      display: block;
+    }
+    
+    .electronics {
+        padding-left: 115px;
+        padding-right: 124px;
+    }
+    
+     .electronics:hover {
+        background-color: crimson;
+    }
+
+/*****************************************************|| CLOTHES & APPREALS ||*****************************************************/
+  
+/*****************************************************|| CLOTHES & APPREALS ||*****************************************************/
+
+  .grocery {
+      padding-left: 100px;
+      padding-right: 110px;
+      margin-left: 0px;
+  }
+  li.grocery_dropdown {
+    display: inline-block;
+  }
+  
+  .grocery_dropmenu {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    margin-left: 13px;
+    padding-top: 5px;
+    min-width: 280px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .grocery_dropmenu a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+  }
+  
+  .grocery_dropmenu a:hover {
+      background-color: crimson;
+      color: white;
+    }
+  
+  .grocery_dropdown:hover .grocery_dropmenu {
+      display: block;
+    }
+
+     .grocery:hover {
+        background-color: crimson;
+    }
+
+  .grocery:hover {
+      background-color: crimson;
+  }
+
+/*****************************************************|| CLOTHES & APPREALS ||*****************************************************/
+
+/*****************************************************|| CLOTHES & APPREALS ||*****************************************************/
+
+  .cosmetics {
+      padding-left: 90px;
+      padding-right: 90px;
+  }
+
+  li.cosmetics_dropdown {
+    display: inline-block;
+  }
+  
+  .cosmetics_dropmenu {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    margin-left: 13px;
+    padding-top: 5px;
+    min-width: 270px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .cosmetics_dropmenu a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+  }
+  
+  .cosmetics_dropmenu a:hover {
+      background-color: crimson;
+      color: white;
+    }
+  
+  .cosmetics_dropdown:hover .cosmetics_dropmenu {
+      display: block;
+    }
+
+     .cosmetics:hover {
+        background-color: crimson;
+    }
+
+  .cosmetics:hover {
+      background-color: crimson;
+  }
+
+/*****************************************************|| CLOTHES & APPREALS ||*****************************************************/
+    
